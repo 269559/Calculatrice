@@ -23,7 +23,7 @@ function calcule(){
     }
 }
 
-function suppr(){
+function suppr() {
 
     form.fenetre.value='';
 
